@@ -54,13 +54,13 @@ void loop() {
     delay(450); //Delay
   }  
   else{ //Jika jarak lebih dari yang ditentukan
-  digitalWrite(LED1, HIGH); //LED1 mati
+  digitalWrite(LED1, HIGH); //LED1 hidup
   }
   
   if(jarak1<=15){ // Jarak (Cm) dapat anda sesuaikan
-    digitalWrite(LED2, LOW);
+    digitalWrite(LED2, LOW); //LED2 mati
   }else{
-  digitalWrite(LED2, HIGH); //LED2 mati
+  digitalWrite(LED2, HIGH); //LED2 hidup
   }
   delay(450); //Delay
   }
