@@ -6,6 +6,7 @@ By using Arduino:
 
 By using ESP32:
 ![Project EED_Rangkaian fritzing](https://user-images.githubusercontent.com/38080159/142971082-b4103416-1ebd-4c61-8969-990269c92966.png)
+![Project EED_schem](https://user-images.githubusercontent.com/38080159/143669892-83c8bed1-797a-4031-b9fe-988ee2bf3da8.png)
 
 Demo IRL:
 https://youtu.be/altLi7FWFvA
